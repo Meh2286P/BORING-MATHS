@@ -1,0 +1,19 @@
+h1 {
+    color: #964B00;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color: #7fffc4
+    display:flex;
+    justify-content:space-between
+}
+
+.super{
+    background-color:#0000FF;
+    display:flex;
+    justify-content:space-between
+}
